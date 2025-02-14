@@ -15,5 +15,14 @@ User_2 --> User_3
     CHAT_ROOMS --> User_1_1
 CHAT_ROOMS --> User_1_2
 CHAT_ROOMS --> User_1_3
- style User_1 fill:#ffcc00,stroke:#333,stroke-width:2px
+User_1_1 --> message_1
+User_1_2 --> message_1
+User_1_3 --> message_1
+message_1 --> message_2
+message_1 --> message_2
+message_1 --> message_2
+
+    style FIRESTORE fill:#00FFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
+    style USERS fill:#EEFFFF,stroke:#333,stroke-width:10px,font-size:18px,padding:10px,color:#000000
+    style CHAT_ROOMS fill:#EEFFFF,stroke:#333,stroke-width:10px,font-size:18px,padding:10px,color:#000000
 ```
