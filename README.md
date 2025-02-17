@@ -23,8 +23,8 @@ message_1_2 --> message_1_2_1
 message_1_3 --> message_1_3_1
 
     style FIRESTORE fill:#00FFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
-    style USERS fill:#00F00F,stroke:#333,stroke-width:10px,font-size:18px,padding:10px,color:#000000
-    style CHAT_ROOMS fill:#00F00F,stroke:#333,stroke-width:10px,font-size:18px,padding:10px,color:#000000
+    style USERS fill:#00FFFF,stroke:#333,stroke-width:10px,font-size:18px,padding:10px,color:#000000
+    style CHAT_ROOMS fill:#00FFFF,stroke:#333,stroke-width:10px,font-size:18px,padding:10px,color:#000000
     style User_1 fill:#EEFFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
  style User_2 fill:#EEFFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
  style User_3 fill:#EEFFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
@@ -32,3 +32,9 @@ style User_1_1 fill:#EEFFFF,stroke:#333,stroke-width:20px,font-size:18px,padding
  style User_1_2 fill:#EEFFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
  style User_1_3 fill:#EEFFFF,stroke:#333,stroke-width:20px,font-size:18px,padding:10px,color:#000000
 ```
+
+
+## Workflow
+
+
+![Alt text](talksy_working_flow.png)
